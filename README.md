@@ -20,7 +20,7 @@ Dentro del proyecto se encuentra el script 'bd_liquidity' necesario para cargar 
 
 1. Crear una base de datos en MySQL llamada: \`liquidityFinance_DB\`
 2. Abrir MySQL Workbench
-3. Cargar el archivo `.sql` ubicado en la carpeta `/dataBase`
+3. Cargar el archivo `.sql` ubicado en el proyecto
 4. Ejecutar el script para crear las tablas y registros de ejemplo
 
 ### Opción 2: Importar desde Dump Folder
